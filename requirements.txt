@@ -4,3 +4,10 @@ python-dotenv>=1.0.0
 pytest>=8.0.0
 pytest-asyncio>=0.23.0
 respx>=0.21.0
+fastapi
+uvicorn
+aiogram<3.0
+requests
+SQLAlchemy
+psycopg2-binary
+json
